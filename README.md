@@ -12,13 +12,13 @@ INSTALL
 SETUP
 -----
 
-Setup needs mysql.  See [mysql.README](mysql.README).
+Setup needs mysql.  See [mysql.README](mysql.README.md).
 
 RUN
 ---
 
 Before run, this redmine requires mysql, and nginx.
-See [mysql.README](mysql.README), and [nginx.README](nginx.README) to run these images.
+See [mysql.README](mysql.README.md), and [nginx.README](nginx.README.md) to run these images.
 
 ``` bash
   $ docker run \
