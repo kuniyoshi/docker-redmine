@@ -1,0 +1,2 @@
+production:
+  api_token: "__DOCKER_ENV_CHATWORK_API_TOKEN__"
